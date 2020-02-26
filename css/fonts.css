@@ -1,10 +1,12 @@
 @font-face {
     font-family: 'AcuminPro-Regular';
-    src: url('../font/AcuminPro-Regular.eot');
+    src: url('../fonts/AcuminPro-Regular.eot');
     src: url('../fonts/AcuminPro-Regular.eot?#iefix') format('embedded-opentype'),
          url('../fonts/AcuminPro-Regular.svg#AcuminPro-Regular') format('svg'),
          url('../fonts/AcuminPro-Regular.woff') format('woff'),
          url('../fonts/AcuminPro-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
-  }  
+  }
+  
+  
