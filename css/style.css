@@ -25,9 +25,6 @@ body {
     background: #A6A6A6;
     display: inline-block;
 }
-.explord-text {
-    display: inline-block;
-}
 .travelers-blog {
     margin-left: 30px;
     display: inline-block;
@@ -41,9 +38,6 @@ li {
     font-size: 22px;
     font-family: 'AcuminPro-Regular';
     display: inline-block;
-}
-.navigation {
-    float: right;
 }
 .fixedheader {
     width: 100%;
