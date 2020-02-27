@@ -252,6 +252,10 @@ li {
     padding: 7px 0;
 }
 .subscribe {
+    border-radius: 5px;
+    padding: 60px 30px;
+    margin: 0 14px;
     background-color: white;
-    width: 400px;
+    width: 386px;
+
 }
